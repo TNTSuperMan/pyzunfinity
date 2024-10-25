@@ -13,5 +13,6 @@ $ pip install MeCab simpleaudio
 $ python main.py [path]
 ```
 pathには喋らせる内容を入れたテキストファイルパスを入れてください
+サンプルとしてGoogleへの愚痴とか書いたtextがあるのでそちらをご利用ください
 ## 止め方
 コンソールでCtrl+Cで強制終了
